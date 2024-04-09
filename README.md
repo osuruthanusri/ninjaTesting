@@ -1,0 +1,2 @@
+# ninjaTesting
+TestingLocal
